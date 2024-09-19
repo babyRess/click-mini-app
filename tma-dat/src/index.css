@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media screen and (min-width: 764px) {
+  body,.squad-container {
+}
+.slide  {
+    width: 19.5rem!important;
+}
+
+}
